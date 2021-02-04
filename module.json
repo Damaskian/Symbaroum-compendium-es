@@ -3,7 +3,7 @@
    "title": "Compendio en Español de Symbaroum",   
    "description": "Módulo que añade todo el compendio de Symbaroum",   
    "author": "Comunidad Symbaroum",
-   "version": "0.0.3",
+   "version": "0.0.4",
    "minimumCoreVersion": "0.7.5",
    "compatibleCoreVersion":"0.7.9",
    "packs": [
