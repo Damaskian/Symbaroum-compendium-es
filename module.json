@@ -25,6 +25,6 @@
 	"url": "https://github.com/Damaskian/Symbaroum-compendium-es",
     "manifest": "https://raw.githubusercontent.com/Damaskian/Symbaroum-compendium-es/master/module.json",
     "download": "ttps://github.com/Damaskian/Symbaroum-compendium-es/archive/master.zip",
-    "socket": true,
+    "socket": true
  }
  
