@@ -23,8 +23,8 @@
     }
   ],
 	"url": "https://github.com/Damaskian/Symbaroum-compendium-es",
-    "manifest": "https://raw.githubusercontent.com/foundry-vtt-community/macros/master/module.json",
-    "download": "https://github.com/foundry-vtt-community/macros/archive/v0.33.zip",
+    "manifest": "https://raw.githubusercontent.com/Damaskian/Symbaroum-compendium-es/master/module.json",
+    "download": "ttps://github.com/Damaskian/Symbaroum-compendium-es/archive/master.zip",
     "socket": true,
  }
  
