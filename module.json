@@ -34,6 +34,13 @@
       "name": "dones",
       "path": "packs/dones.db",
       "system": "symbaroum"
+    },
+	{
+      "label": "Habilidades",
+      "entity": "Item",
+      "name": "habilidades",
+      "path": "packs/habilidades.db",
+      "system": "symbaroum"
     }
   ],
 	"url": "https://github.com/Damaskian/Symbaroum-compendium-es",
