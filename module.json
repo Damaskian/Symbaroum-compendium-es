@@ -3,7 +3,7 @@
    "title": "Compendio en Español de Symbaroum",   
    "description": "Módulo que añade todo el compendio de Symbaroum",   
    "author": "Comunidad Symbaroum",
-   "version": "0.0.2",
+   "version": "0.0.3",
    "minimumCoreVersion": "0.7.5",
    "compatibleCoreVersion":"0.7.9",
    "packs": [
@@ -19,6 +19,20 @@
       "entity": "JournalEntry",
       "name": "sistema",
       "path": "packs/sistema.db",
+      "system": "symbaroum"
+    },
+	{
+      "label": "Rasgos",
+      "entity": "Item",
+      "name": "rasgos",
+      "path": "packs/rasgos.db",
+      "system": "symbaroum"
+    },
+	{
+      "label": "Dones",
+      "entity": "Item",
+      "name": "dones",
+      "path": "packs/dones.db",
       "system": "symbaroum"
     }
   ],
