@@ -1,0 +1,30 @@
+{   
+   "name": "compendio-symbaroum",   
+   "title": "Compendio en Español de Symbaroum",   
+   "description": "Módulo que añade todo el compendio de Symbaroum",   
+   "author": "Comunidad Symbaroum",
+   "version": "0.0.1",
+   "minimumCoreVersion": "0.7.5",
+   "compatibleCoreVersion":"0.7.9",
+   "packs": [
+    {
+      "label": "Armas",
+      "entity": "Item",
+      "name": "armas",
+      "path": "packs/armas.db",
+      "system": "symbaroum"
+    },
+    {
+      "label": "Sistema",
+      "entity": "JournalEntry",
+      "name": "sistema",
+      "path": "packs/sistema.db",
+      "system": "symbaroum"
+    }
+  ],
+	"url": "https://github.com/Damaskian/Symbaroum-compendium-es",
+    "manifest": "https://raw.githubusercontent.com/Damaskian/Symbaroum-compendium-es/master/module.json",
+    "download": "https://github.com/Damaskian/Symbaroum-compendium-es/archive/master.zip",
+    "socket": true
+ }
+ 
